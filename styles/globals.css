@@ -1,26 +1,183 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e2c;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  margin: 15px 0;
+  line-height: 1.8;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+header {
+  background: #1e1e2c;
+  color: #ffffff;
+  padding: 5px;
+  margin-bottom: 40px;
+}
+
+header a {
+  color: #fff;
+}
+
+.container {
+  max-width: 768px;
+  margin: auto;
+  overflow: auto;
+  padding: 0 10px;
+  padding-top: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  background: #BB86FC;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:hover {
+  transform: scale(0.98);
+}
+
+.btn-back {
+  background: #BB86FC;
+  color: rgb(255, 255, 255);
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.posts {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin-top: 30px;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.card {
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+.card-page {
+  padding: 15px 30px;
+}
+
+.post-title {
+  margin: 10px 0;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.post-date {
+  margin-bottom: 0px;
+  font-size: 0.9rem;
+  color: white;
+}
+
+.post-body ul,
+ol {
+  font-size: 110%;
+  line-height: 2.3;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.post-body pre {
+  background: #f4f4f4;
+  padding: 20px;
+  margin: 20px 0;
+  line-height: 2.3;
+}
+
+h1.site-title {
+  cursor: pointer;
+  display: inline;
+  font-size: 48px;
+}
+
+.intro {
+  color: white;
+  padding-left: 20px;
+  line-height: 1.3rem;
+  padding-top: 5px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+
+}
+
+.main-intro {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.social-icons {
+  margin: 0;
+  padding-top: 0;
+  padding-left: 18px;
+  line-height: 0;
+}
+
+.twitter {
+  width: 35px;
+  padding: 0px;
+  padding-right: 7px;
+  margin: 0;
+}
+
+.github {
+  width: 35px;
+  padding: 0px;
+  padding-right: 7px;
+  margin: 0;
+}
+
+.instagram {
+  width: 35px;
+  padding: 0px;
+  padding-right: 7px;
+  margin: 0;
+}
+
+@media (max-width: 500px) {
+  .posts {
+    grid-template-columns: 1fr;
   }
 }
