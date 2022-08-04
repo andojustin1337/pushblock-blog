@@ -5,7 +5,7 @@ export default function Header() {
         <header>
             <div className="container">
                 <Link href='/' passHref>
-                    <h1 className='site-title'>Pushblock</h1>
+                    <h1 className='site-title'>Push<span>Block</span></h1>
                 </Link>
             </div>
         </header>
