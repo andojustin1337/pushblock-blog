@@ -10,8 +10,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Pushblock.io</title>
-        
+        <title>Pushblock.io</title> 
       </Head>
    
     <div className='main-intro'>

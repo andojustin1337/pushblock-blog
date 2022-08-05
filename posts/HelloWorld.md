@@ -1,19 +1,18 @@
 ---
 title: '"Hello World!"'
-date: '08/01/2022'
+date: '08/04/2022'
 excerpt: 'What is Pushblock?'
 ---
 
-So I know what you're asking.  What does Pushblock mean?  Those of you who play fighting games such as Marvel vs Capcom, may 
-know what it is in reference to.  For the uninitiated, a push block is a guarding technique in
-fighting games where you are able to push the opponent's character away when blocking.  This blog isn't necessarily about gaming, but for whatever reason, I 
-thought it rolled off the tongue nicely.    
+So, I know what you are asking.  What does Pushblock mean?  Those of you who play fighting games such as Marvel vs Capcom, may 
+know this reference well.  For the uninitiated, a push block is a guarding technique in
+fighting games.  The push block enables you to "push" the opponent's character away while you are blocking and allow you to escape danger.  This blog isn't necessarily about video games, but I thought the name was catchy and rolled off the tongue nicely.    
 
-All gaming references aside, I created Pushblock as an outlet to explore my interests in coding and finance.
-As my coding repertoire expands, I will be updating and adding new features accordingly.  What better place than a blog to document these findings as well as any
-mistakes along the way?  Hopefully you (the reader) can learn from my mistakes and victories to aid your personal journey as well.  
+All gaming references aside, Pushblock was created as an outlet to explore my interests in coding and finance.  This way I can document my progress while concomitantly practicing what I learn.  As my coding repertoire expands, I look forward to updating this blog with new features, and creating content based on these discoveries.  
 
-As previously stated, Pushblock will be focused primarily around coding and finance, but I may delve into other topics from time to time.
+Finance is another field which will be featured on this platform.  Please do not take anything I post/write as financial advice.  These are my opinions and are not meant to be taken as fact.  Especially when it comes to money, you should always do your own research and due diligence.  
+
 That is all for now.  Stay tuned for new content coming your way soon. 
 
+ʕ •ᴥ•ʔ
 
