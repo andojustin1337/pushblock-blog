@@ -22,3 +22,10 @@ These qualifying factors could change slightly depending on the loan program, or
 
 I hope this gives you a good introduction to mortgages and what they are.  Although there are many great resources on the internet for information on mortgages, it cannot replace the knowledge of a competent loan officer.  So, no matter if you are experienced in buying real estate or looking to purchase your first home, please find a loan officer you trust to assist on your transaction.  
 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+## *Disclaimer:* 
+*I am not a financial advisor. The content on this website is for educational purposes only and cite my own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor or loan officer if necessary.*
