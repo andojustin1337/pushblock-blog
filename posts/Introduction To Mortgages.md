@@ -1,5 +1,5 @@
 ---
-title: '"Mortgages & You"'
+title: 'Mortgages & You'
 date: '08/08/2022'
 excerpt: 'An intro to Mortgages'
 ---
