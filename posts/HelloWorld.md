@@ -14,5 +14,3 @@ Finance is another field which will be featured on this platform.  Please do not
 
 That is all for now.  Stay tuned for new content coming your way soon. 
 
-ʕ •ᴥ•ʔ
-
