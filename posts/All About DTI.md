@@ -17,4 +17,4 @@ Having a high DTI doesn’t automatically disqualify you for a loan.  There are 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## *Disclaimer:* 
-*I am not a financial advisor. The content on this website is for educational purposes only and cite my own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor or loan officer if necessary.*
+*The content on this website is for educational purposes only and cite my own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor or loan officer if necessary.*

@@ -28,4 +28,4 @@ I hope this gives you a good introduction to mortgages and what they are.  Altho
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## *Disclaimer:* 
-*I am not a financial advisor. The content on this website is for educational purposes only and cite my own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor or loan officer if necessary.*
+*The content on this website is for educational purposes only and cite my own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor or loan officer if necessary.*
