@@ -10,7 +10,5 @@ fighting games.  The push block enables you to "push" the opponent's character a
 
 All gaming references aside, Pushblock was created as an outlet to explore my interests in coding and finance.  This way I can document my progress while concomitantly practicing what I learn.  As my coding repertoire expands, I look forward to updating this blog with new features, and creating content based on these discoveries.  
 
-Finance is another field which will be featured on this platform.  Please do not take anything I post/write as financial advice.  These are my opinions and are not meant to be taken as fact.  Especially when it comes to money, you should always do your own research and due diligence.  
-
-That is all for now.  Stay tuned for new content coming your way soon. 
+See you around!
 
